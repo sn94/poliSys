@@ -1,7 +1,6 @@
 
 <div class="container col-12 col-sm-12 offset-lg-3 col-lg-9 content-row">
-    
-    <nav aria-label="...">
+         <nav aria-label="...">
   <ul class="pagination">
     
      <?php
@@ -23,6 +22,8 @@
     </li>
   </ul>
 </nav>
+     
+   
     
    
              <div class="row">
